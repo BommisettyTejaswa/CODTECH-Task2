@@ -10,7 +10,7 @@ Mentor:Neela Santhosh
 
 OVERVIEW OF PROJECT
 
-Email Logo.png
+PROJECT NAME:Email Spam Detector
 
 Spam Detector
 COMP 6721 - Artificial Intelligence
