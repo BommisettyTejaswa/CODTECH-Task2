@@ -14,7 +14,7 @@ PROJECT NAME:Email Spam Detector
 
 Spam Detector
 COMP 6721 - Artificial Intelligence
-Project Assignment 2 - Concordia University (Winter 2020)
+
 Animated gif pacman game
 
 
