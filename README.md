@@ -1,4 +1,14 @@
+Name:BOMMISETTY TEJASWA
 
+company:CODTECH IT SOLUTIONS
+
+ID:CT08DS9291
+
+Domain:Artificial Intelligence
+
+Mentor:Neela Santhosh
+
+OVERVIEW OF PROJECT
 
 Email Logo.png
 
@@ -25,3 +35,4 @@ Source Directories:
 train directory - Includes all emails for the training phase of the program.
 test directory - Includes all emails for the testing phase of the program.
 
+![projectoutput2](https://github.com/user-attachments/assets/d38472cb-30ff-427c-ab7c-d1226df9e6f9)
